@@ -1,10 +1,10 @@
-# SWG-ACADEMY
+# EMPLOYEE-MANAGEMENT-SYSTEM
 <h1 align="center">EMPLOYEE-MANAGEMENT-SYSTEM</h1>
 <p><font size="3">
 ....
 </p>
   
-# This web-app contains 6 main pages:
+# This desktop-app contains 6 main pages:
 - [splash Page](#splash-page)
 - [Home Page](#home-page)
 - [Add Employee Page](#add-employee-page)
@@ -14,7 +14,7 @@
 
   ## Splash Page
   Discover a world of knowledge at your fingertips. Our user-friendly website offers a wide range of courses, interactive lessons, and expert instructors. Whether you're a beginner or an expert, enhance your skills and expand your horizons with our e-learning courses. Start your journey today!
-![](https://github.com/Surya07102000/Employee-Management-System/blob/main/src/icons/splash_page.png)
+![](https://github.com/Surya07102000/Employee-Management-System/blob/src/icons/splash_page.png)
 
 ## Home Page
 Discover our mission to empower lifelong learning. Explore our wide range of courses, expert instructors, and interactive content. Join our community and embark on a journey of knowledge and growth. Your success starts here.
