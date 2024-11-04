@@ -14,7 +14,7 @@
 
   ## Splash Page
  ....
-![](https://github.com/Surya07102000/Employee-Management-System/blob/main/src/icons/splash_page.png)
+![](https://github.com/Surya07102000/Employee-Management-System/blob/main/splash_page.png)
 
 ## Home Page
 
